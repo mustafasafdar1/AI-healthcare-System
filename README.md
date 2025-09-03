@@ -1,6 +1,6 @@
 # E-Healthcare Management System
 
-Welcome to Aaragya, a cutting-edge platform designed to revolutionize healthcare delivery and management. Built with the powerful MERN stack, our system ensures a seamless and efficient experience for both healthcare providers and patients.
+Welcome to Ucipans, a cutting-edge platform designed to revolutionize healthcare delivery and management. Built with the powerful MERN stack, our system ensures a seamless and efficient experience for both healthcare providers and patients.
 
 1\. Introduction
 ----------------
@@ -13,11 +13,7 @@ The purpose of this document is to provide a comprehensive overview of the requi
 
 The e-HMS website is a centralized platform built using the MERN stack. It includes three main user modules (Patient, Doctor, Admin) and integrates several machine learning models to predict health conditions. The system supports secure user authentication and data management, cloud-based image storage, and robust form validation.
 
-2\. Screenshots
----------------
-![1](https://github.com/biswarup-naha/E-healthcare-Management-System/assets/110123267/b63bcbb1-5204-4c41-951c-2e68828a7585)
-![2](https://github.com/biswarup-naha/E-healthcare-Management-System/assets/110123267/4dd31c7f-99e3-4ad1-8b9c-afe166fb2d19)
-![3](https://github.com/biswarup-naha/E-healthcare-Management-System/assets/110123267/33bda2cf-a48d-4d35-85d9-06801aab7abb)
+
 
 
 
