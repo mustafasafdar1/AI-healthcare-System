@@ -67,3 +67,5 @@ The e-HMS website is designed to be a standalone application that integrates var
 * **Secure & Compliant:** Adherence to healthcare regulations ensures data privacy and security.
     
 * **Scalable & Flexible:** The MERN stack provides a robust foundation that can scale with your needs.
+* <img width="1895" height="823" alt="image" src="https://github.com/user-attachments/assets/af157187-b064-4198-ac2d-ee7fbd045cd7" />
+
